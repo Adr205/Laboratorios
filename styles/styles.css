@@ -15,10 +15,19 @@ html,body{
 
 h1{
     text-align: center;
-    font-size: 8rem;
+    font-size: 10rem;
     color: #222;
     font-family: 'Caveat', cursive;
+    margin-bottom: 0;
 }
+
+h2{
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    font-size: 4rem;
+    color: #111;
+}
+
 
 .grid{
     text-align: center;
